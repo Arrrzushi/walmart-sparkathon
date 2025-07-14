@@ -10,8 +10,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@turf/turf": "^7.2.0",
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^12.23.5",
+    "h3-js": "^4.2.1",
+    "lucide-react": "^0.525.0",
+    "maplibre-gl": "^5.6.1",
+    "postcss": "^8.5.6",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "recharts": "^3.1.0",
+    "socket.io-client": "^4.8.1",
+    "tailwindcss": "^4.1.11",
+    "zustand": "^5.0.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
